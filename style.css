@@ -183,6 +183,27 @@ body {
     text-decoration: none;
     color: inherit;
 }
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.search-box {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    background-color:greenyellow;
+    padding: 5px 10px;
+    border-radius: 20px;
+    
+}
 
 
  } 
